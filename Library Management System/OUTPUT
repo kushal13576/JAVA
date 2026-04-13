@@ -1,0 +1,75 @@
+===== Library Menu =====
+1. Display Books
+2. Search Book
+3. Issue Book
+4. Return Book
+5. Exit
+Enter choice: 1
+
+--- Book List ---
+1. Java Basics - Available
+2. Data Structures - Available
+3. Operating Systems - Available
+4. Computer Networks - Available
+5. DBMS - Available
+
+===== Library Menu =====
+1. Display Books
+2. Search Book
+3. Issue Book
+4. Return Book
+5. Exit
+Enter choice: 2
+Enter book title: Java Basics
+
+Book Found:
+Title: Java Basics
+Author: James Gosling
+Status: Available
+
+===== Library Menu =====
+1. Display Books
+2. Search Book
+3. Issue Book
+4. Return Book
+5. Exit
+Enter choice: 3
+Enter book title to issue: Java Basics
+
+Book issued successfully
+
+===== Library Menu =====
+1. Display Books
+2. Search Book
+3. Issue Book
+4. Return Book
+5. Exit
+Enter choice: 1
+
+--- Book List ---
+1. Java Basics - Issued
+2. Data Structures - Available
+3. Operating Systems - Available
+4. Computer Networks - Available
+5. DBMS - Available
+
+===== Library Menu =====
+1. Display Books
+2. Search Book
+3. Issue Book
+4. Return Book
+5. Exit
+Enter choice: 4
+Enter book title to return: Java Basics
+
+Book returned successfully
+
+===== Library Menu =====
+1. Display Books
+2. Search Book
+3. Issue Book
+4. Return Book
+5. Exit
+Enter choice: 5
+
+Exiting system...
